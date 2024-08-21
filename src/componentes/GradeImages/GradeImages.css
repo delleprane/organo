@@ -1,0 +1,10 @@
+.gradeImage img{
+    width: 120px;
+    border-radius: 50%;
+    top: 50px;
+    z-index: 0;
+}
+
+.mobile-gradeImage img{
+    width: 80px;
+}

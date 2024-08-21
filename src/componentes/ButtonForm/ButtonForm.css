@@ -1,0 +1,21 @@
+.button{
+    background-color: #ae05f1;
+    border-radius: 10px;
+    font-weight: 700;
+    font-size: 18px;
+    padding: 32px;
+    border: none;
+    cursor: pointer;
+    color: #FFF;
+    margin: 32px 0; 
+}
+
+.button:hover{
+    background-color: #cf66f9;
+    color: #37e792;
+}
+
+.mobile-button{
+    font-size: 15px;
+    margin: 20px 0; 
+}

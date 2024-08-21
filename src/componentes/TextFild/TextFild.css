@@ -1,0 +1,41 @@
+.textfield {
+    margin: 24px 0;
+}
+
+.textfield label {
+    display: block;
+    margin-bottom: 8px;
+    font-size: 24px;
+}
+
+.textfield input {
+    background-color: #fff;
+    box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.06);
+    width: 100%;
+    border: none;
+    font-size: 24px;
+    padding: 24px;
+    box-sizing: border-box
+}
+
+.textfield textarea {
+    width: 100%;
+    padding: 8px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 8px;
+}
+
+.mobile-textfield{
+    margin: 15px 0;
+}
+
+.mobile-textfield label {
+    font-size: 20px;
+}
+
+.mobile-textfield input{
+    font-size: 18px;
+}
